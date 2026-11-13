@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Bruno Sales
+# 👋 Olá! Eu sou Bruno Sales Inacio
 
 ### 💻 Desenvolvedor Web em Formação
 Sou estudante de Tecnologia e apaixonado por desenvolvimento de software. Estou construindo minha trajetória na programação, desenvolvendo projetos acadêmicos e aprimorando minhas habilidades técnicas.
