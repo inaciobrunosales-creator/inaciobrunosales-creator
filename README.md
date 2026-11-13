@@ -28,8 +28,8 @@ Confira meus repositórios:
 [Meus projetos no GitHub](https://github.com/inaciobrunosales-creator?tab=repositories)
 ---
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inaciobrunosales-creator&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciobrunosales-creator&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=inaciobrunosales-creator&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=inaciobrunosales-creator&layout=compact&theme=tokyonight)
 ---
 ## 📫 Contato
 - GitHub: https://github.com/inaciobrunosales-creator
