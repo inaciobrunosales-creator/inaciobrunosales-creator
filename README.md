@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Bruno Sales Inacio
 
 ### 💻 Desenvolvedor Web em Formação
-Sou estudante de Tecnologia e apaixonado por desenvolvimento de software. Estou construindo minha trajetória na programação, desenvolvendo projetos acadêmicos e aprimorando minhas habilidades técnicas.
+Sou estudante de Tecnologia e interessado por desenvolvimento de software. Estou construindo minha trajetória na programação, desenvolvendo projetos acadêmicos e aprimorando minhas habilidades técnicas.
 Tenho interesse em desenvolvimento Backend, Web, APIs e banco de dados.
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor e criar soluções tecnológicas que façam a diferença.
 ---
